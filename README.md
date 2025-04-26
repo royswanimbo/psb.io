@@ -13,3 +13,7 @@
     <li>pendaftaran: sebaiknya dibuat pada web terpisah gunakan laravel dengan tema desian yang mirip.</li>
     <li></li>
 </ul>
+
+## demo
+
+https://royswanimbo.github.io/psb.io/index.html
